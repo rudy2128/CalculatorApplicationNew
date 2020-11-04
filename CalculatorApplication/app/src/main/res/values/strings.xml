@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CalculatorApplication</string>
+    <string name="calculator">CALCULATOR</string>
+    <string name="number1">number1</string>
+    <string name="number3">number3</string>
+    <string name="number2">number2</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="x">X</string>
+    <string name="per">/</string>
+    <string name="result">Hasil :</string>
+    <string name="zero">""</string>
+    <string name="empty">Form kosong!</string>
+</resources>
